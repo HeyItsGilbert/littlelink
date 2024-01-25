@@ -99,7 +99,7 @@ body {
   line-height: 24px;
   font-weight: 400;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, noto sans, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol, noto color emoji;
-  background-image: url('../images/jingwei-ke-E7w_Ti4BSSs-unsplash.jpg');
+  /*background-image: url('../images/jingwei-ke-E7w_Ti4BSSs-unsplash.jpg');*/
   background-size: cover;
   background-position: center center;
   background-color: #27272A;
@@ -308,4 +308,9 @@ hr {
     /* Safari, Android, iOS */
     url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.svg#OpenSans') format('svg');
   /* Legacy iOS */
+}
+
+/* Custom */
+div.footer {
+  font-size: small;
 }
