@@ -873,3 +873,14 @@ button:hover,
 .button.button-digitalgarden:focus {
   filter: brightness(90%);
 }
+
+/* Resume */
+.button.button-digitalgarden {
+  color: rgb(36, 167, 255);
+  background-color: #FFF;
+}
+
+.button.button-digitalgarden:hover,
+.button.button-digitalgarden:focus {
+  filter: brightness(90%);
+}
